@@ -69,3 +69,5 @@ Week of Year
 Weekend Indicator
 
 This table enables flexible filtering and breakdowns in visuals like trends, comparisons by weekday, and calendar-based insights.
+
+![Date table](https://github.com/Konstanlytics/Uber-Trip-Analysis/blob/main/Date%20table.JPG)
