@@ -76,7 +76,7 @@ This table enables flexible filtering and breakdowns in visuals like trends, com
 
 ## Data Analysis
 
-[Overview Analysis](https://github.com/Konstanlytics/Uber-Trip-Analysis/blob/main/Overview%20Analysis.JPG)
+![Overview Analysis](https://github.com/Konstanlytics/Uber-Trip-Analysis/blob/main/Overview%20Analysis.JPG)
 
 ### 🔍 Key Metrics
 
