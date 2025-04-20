@@ -164,6 +164,8 @@ This helps Uber identify the busiest times of the day and week so more drivers c
 
 ## 📋 Trip Data Breakdown (Details Page)
 
+![Details](https://github.com/Konstanlytics/Uber-Trip-Analysis/blob/main/Details.JPG)
+
 This section presents a detailed look at individual Uber trips, showcasing data such as trip time, vehicle type, distance, payment method, and pickup location.
 
 ### 🔢 Key Metrics
