@@ -71,3 +71,66 @@ Weekend Indicator
 This table enables flexible filtering and breakdowns in visuals like trends, comparisons by weekday, and calendar-based insights.
 
 ![Date table](https://github.com/Konstanlytics/Uber-Trip-Analysis/blob/main/Date%20table.JPG)
+
+
+
+## Data Analysis
+
+### 🔍 Key Metrics
+
+- Total Bookings: 103.7K
+
+- Total Booking Value: $1.6M
+
+- Average Booking Value: $15.00
+
+- Total Trip Distance: 349K miles
+
+- Average Trip Distance: 3 miles
+
+- Average Trip Duration: 16 minute
+
+### 📈 Trip Trend Analysis
+The daily trip chart shows that people booked rides fairly steadily all month, but there were some busy days, especially around the middle and end of the month.
+
+This could mean more people needed rides during weekends, special events, or maybe when Uber ran promos.
+
+This kind of chart helps the team know when demand is high, so they can make sure enough drivers are available and maybe even run special deals or adjust prices smartly.
+
+
+### 💳 Payment & Time of Day Breakdown
+
+**Total Booking Values Info :**
+
+- *Payment Type:*
+
+Uber Pay: 70.47% of total booking value
+
+Cash: 28.45%
+
+Other (Amazon Pay, Google Pay): Less than 1%
+
+- *Trip Time:*
+
+Day Trips: 86.72%
+
+Night Trips: 13.28%
+
+These numbers show that most people prefer paying through the app instead of using cash. Also, most rides happen during the day — which likely means people are using Uber for things like work, errands, or appointments, rather than late-night outings.
+
+
+### 🚗 Vehicle Type Performance  
+- **UberX** had the highest number of trips (**38.7K**) and brought in around **$584K**, making it the most popular option for riders  
+- **UberXL** and **Uber Black** followed closely, often used for bigger or more luxurious rides  
+- **Uber Green** had the fewest trips, which could mean fewer eco-friendly cars are available or not many riders choose them
+
+### 📍 Location Insights  
+- **Most Frequent Pickup Point:** Penn Station / Madison Square West  
+- **Most Frequent Dropoff Point:** Upper East Side North  
+- **Longest Trip:** Lower East Side to Crown Heights North — about **144.1 miles**
+
+These popular spots help highlight where people commonly start or end their trips. This kind of info can help Uber place more drivers in busy areas and possibly adjust pricing during peak times.
+
+### 🚘 Preferred Vehicle by Location  
+- **UberX** is the top choice at the busiest pickup and drop-off locations  
+- This shows it's a favorite because it's likely affordable, easy to find, and gets the job done for most riders
