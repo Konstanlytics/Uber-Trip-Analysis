@@ -76,6 +76,8 @@ This table enables flexible filtering and breakdowns in visuals like trends, com
 
 ## Data Analysis
 
+### Overview Analysis
+
 ![Overview Analysis](https://github.com/Konstanlytics/Uber-Trip-Analysis/blob/main/Overview%20Analysis.JPG)
 
 ### 🔍 Key Metrics
@@ -136,3 +138,24 @@ These popular spots help highlight where people commonly start or end their trip
 ### 🚘 Preferred Vehicle by Location  
 - **UberX** is the top choice at the busiest pickup and drop-off locations  
 - This shows it's a favorite because it's likely affordable, easy to find, and gets the job done for most riders
+
+
+
+## 🕒 Time Analysis
+
+### 📈 Booking Trends by Time of Day  
+- The booking value rises steadily from early morning and peaks around **6:30 PM**, then gradually drops off later in the evening  
+- This shows most people book Uber rides during late afternoon to early evening, likely when heading home from work or going out
+
+### 📅 Booking Trends by Day of Week  
+- **Saturday** sees the highest total booking value, followed by **Sunday**  
+- **Friday** has the lowest booking value, which could suggest fewer rides before the weekend or earlier travel
+
+These patterns help understand rider behavior and can be useful for planning driver schedules and offering promotions during slower days.
+
+### 📊 Booking Heatmap by Hour & Day  
+- The heatmap shows that **late morning to evening (10 AM - 7 PM)** is the busiest time across most days  
+- **Saturday afternoons** are especially active, showing higher ride demand during weekends
+
+This helps Uber identify the busiest times of the day and week so more drivers can be made available when people need rides the most.
+
