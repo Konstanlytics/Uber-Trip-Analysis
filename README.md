@@ -143,6 +143,8 @@ These popular spots help highlight where people commonly start or end their trip
 
 ## 🕒 Time Analysis
 
+![Time Analysis](https://github.com/Konstanlytics/Uber-Trip-Analysis/blob/main/Time%20Analysis.JPG)
+
 ### 📈 Booking Trends by Time of Day  
 - The booking value rises steadily from early morning and peaks around **6:30 PM**, then gradually drops off later in the evening  
 - This shows most people book Uber rides during late afternoon to early evening, likely when heading home from work or going out
@@ -158,4 +160,33 @@ These patterns help understand rider behavior and can be useful for planning dri
 - **Saturday afternoons** are especially active, showing higher ride demand during weekends
 
 This helps Uber identify the busiest times of the day and week so more drivers can be made available when people need rides the most.
+
+
+## 📋 Trip Data Breakdown (Details Page)
+
+This section presents a detailed look at individual Uber trips, showcasing data such as trip time, vehicle type, distance, payment method, and pickup location.
+
+### 🔢 Key Metrics
+- **Total Trips**: 146,478  
+- **Total Distance Traveled**: 349,933.81 miles  
+- **Total Booking Value**: $1,553,672.80  
+- **Total Bookings Counted**: 103,728
+
+These values give an overall view of business activity within the selected period and provide insight into ride frequency, mileage covered, and total revenue.
+
+### 🚗 Vehicle & Payment Breakdown
+- **Vehicle Types** include UberX, UberXL, Uber Black, Uber Green, and Uber Comfort.
+- **Payment Methods** used are mainly Uber Pay and Cash, with Uber Pay being the most preferred option.
+
+### 📍 Pickup Location Trends
+The most common pickup areas include:
+- Clinton East
+- Penn Station / Madison Sq West
+- Lincoln Square East
+
+These locations likely represent key traffic zones or central transport hubs, making them strategic spots for allocating drivers and managing demand.
+
+### 🧾 Use Case
+This page is valuable for deep dives into trip-level data—ideal for auditing, identifying anomalies, or refining location-based strategies.
+
 
