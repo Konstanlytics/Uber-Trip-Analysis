@@ -52,4 +52,20 @@ The trip data was split into smaller tables to keep things neat and easy to work
 - It also connects to the **Location Table** twice — once for the pickup location and once for the drop-off. Since Power BI only allows one connection to be active at a time, we used a DAX formula called `USERELATIONSHIP` to activate the second one when needed  
 - These connections make it easy to filter and explore the data from different angles
 
+![Modelling](https://github.com/Konstanlytics/Uber-Trip-Analysis/blob/main/Modelling.JPG)
 
+## 📅 Date Table Setup
+
+To support time-based analysis for this one-month dataset, a custom Date table was created using DAX in Power BI. The date range is fixed from June 1 to June 30, 2024, and includes useful columns such as:
+
+Day, Month, and Year
+
+Day Name and Day of Week
+
+Month Name (full and short)
+
+Week of Year
+
+Weekend Indicator
+
+This table enables flexible filtering and breakdowns in visuals like trends, comparisons by weekday, and calendar-based insights.
